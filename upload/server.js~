@@ -1,8 +1,0 @@
-var pngStringify = require('console-png');
- 
-var image = require('fs').readFileSync(__dirname + '/imagen.png');
- 
-pngStringify(image, function (err, string) {
-  if (err) throw err;
-  console.log(string);
-})
