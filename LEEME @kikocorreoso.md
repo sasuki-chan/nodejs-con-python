@@ -1,6 +1,6 @@
 # Conectar nodejs con python para analizar imagen con opencv
 
-@kikocorreoso muchas gracias por tu ayuda sin tu ayuda esto no seria posible, como lo prometi este el codigo por si
+@kikocorreoso (usuario de la pagina http://es.stackoverflow.com) muchas gracias sin tu ayuda esto no seria posible, como lo prometi este el codigo por si
 alguien mas necesita hacer esto o parecido.
 
 Para ejecutar el codigo solo tienes que situar una terminal en la carpeta donde este el codigo y poner el siguiente comando:
@@ -15,9 +15,13 @@ En el lado del navegador no tenes que preocuparte por nada.
 En el lado del servidor (NODE.JS) para que corra tu codigo tienes que tener instalado las siguientes dependencias:
 
 Las pueden instalar poniendo en su terminal asi de simple:  npm install nombre_de_la_dependecia
-ejemplo: npm install formidable          Asi de simple :)
+
+ejemplo: npm install formidable      
+
+Asi de simple se instalan las dependencias que necesita nodejs para correr el codigo :)
 
 1- express (en su version 3.4) para instalarla tienes que poner en la terminal:     npm install express@3.4 
+
 NOTA: porque de lo contrario te instalara la version mas reciente que hasta el dia de hoy domingo 12 de junio del 2016, es la version 4, que no es compatible con la version de express 3 que usa el codigo.
       
 2- formidable
