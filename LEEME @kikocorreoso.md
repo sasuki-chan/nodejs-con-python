@@ -31,5 +31,8 @@ Nota: uso ubuntu 12.04
       
       
 HE buscado en otras pregutas sobre este tema ya sea en stackoverflow como en otros blog y lo unico que se me ocurre es en vez
-de tratar de enviar la imagen, mejor solo le envio el path donde nodejs lo guarda que es en la carpeta upload y con ese argumento
-python lo busca y que lo lea no te parece?. muchas gracias por tu ayuda
+de tratar de enviar la imagen, mejor solo le envio el path donde nodejs lo guarda que es en la carpeta upload y con ese argumento python lo busca y que lo lea ya que la carpeta upload esta, donde muy cerca donde se encuentra el script 
+
+no te parece que seria mejor asi en vez de complicarse en pasar la imagen directamente del nodejs en vez de enviar la ruta del
+archivo + mas el nombre de la imagen con la que se guarda en la carpeta upload? tratare de hacerlo asi!!
+muchas gracias por tu ayuda
